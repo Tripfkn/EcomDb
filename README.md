@@ -1,5 +1,5 @@
-# EcomDb
-DB
+# EcomDb (WorkBench)
+
 
 This database schema is designed to manage core functionalities for an 
 e-commerce platform, covering user management, product catalog, inventory, suppliers, and shopping cart operations.
