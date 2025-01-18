@@ -1,5 +1,3 @@
-drop schema ecomdb;
-
 create database ecomdb;
 
 use ecomdb;
@@ -151,4 +149,3 @@ ALTER TABLE stock
 ADD CONSTRAINT fk_product_id
 FOREIGN KEY (product_id) REFERENCES product(id);
 
-select * from stock;
