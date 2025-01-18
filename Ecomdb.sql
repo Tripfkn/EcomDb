@@ -1,5 +1,3 @@
-
-
 create database ecomdb;
 
 use ecomdb;
