@@ -151,3 +151,4 @@ ALTER TABLE stock
 ADD CONSTRAINT fk_product_id
 FOREIGN KEY (product_id) REFERENCES product(id);
 
+```sql
