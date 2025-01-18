@@ -3,6 +3,7 @@ DB
 
 This database schema is designed to manage core functionalities for an 
 e-commerce platform, covering user management, product catalog, inventory, suppliers, and shopping cart operations.
+---
 
 Key Features:
 Users (first_user): Stores customer information like email, phone, and password.
