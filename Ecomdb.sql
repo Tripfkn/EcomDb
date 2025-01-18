@@ -1,3 +1,5 @@
+```sql
+
 create database ecomdb;
 
 use ecomdb;
